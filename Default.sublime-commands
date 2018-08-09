@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "Trim whitespace: true",
+        "command": "trim_whitespace",
+        "args": {"value": true}
+    },
+    {
+      "caption": "Trim whitespace: false",
+      "command": "trim_whitespace",
+      "args": {"value": false}
+    }
+]
