@@ -1,13 +1,13 @@
 {
   "name": "TrimWhitespace",
+  "details": "https://github.com/colinta/SublimeTrimWhitespace",
   "description": "Sets the user preference 'trim_trailing_white_space_on_save'",
   "author": "Colin T.A. Gray (colinta)",
-  "details": "https://github.com/colinta/SublimeTrimWhitespace",
   "labels": [],
   "releases": [
     {
-      "tags": true,
-      "sublime_text": ">=3000"
+      "sublime_text": ">=3000",
+      "tags": true
     }
   ]
 }
